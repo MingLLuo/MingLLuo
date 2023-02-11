@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about any thing
 -->
 ![MinLLuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingLLuo&count_private=true&theme=highcontrast)
-![MingLLuo's github activity graph](https://activity-graph.herokuapp.com/graph?username=MingLLuo&theme=one-dark)
