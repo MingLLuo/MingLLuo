@@ -9,14 +9,14 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm MingLLuo</h1>
 <h3 align="center">A Student in SCNU</h3>
-> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minglluo&label=Profile%20views&color=0e75b6&style=flat" alt="minglluo" /> </p>
 
 - 🌱 I’m currently learning **CS**, **Math**, **Crypto**
 
 - 👨‍💻 All of my projects are available at **Github Private?🥲** (public one point point)
 
-- 📝 I regularly write on [minglluo.cn](https://minglluo.cn/) also [0xFFFF](https://0xffff.one/)
+- 📝 I regularly write [here](https://minglluo.cn/), also [0xFFFF](https://0xffff.one/)
 
 - 💬 Ask me about **anything?**
 
@@ -29,7 +29,4 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minglluo&layout=compact&theme=gruvbox" alt="minglluo" /></p>
 <p><img align="center" src="https://minglluo-readme.vercel.app/api/top-langs?username=minglluo&locale=en&layout=compact&theme=gruvbox" alt="minglluo" /></p>
-
-<p><img align="left" src="https://minglluo-readme.vercel.app/api?username=minglluo&count_private=true&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="minglluo" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minglluo&theme=gruvbox" alt="minglluo" /></p>
